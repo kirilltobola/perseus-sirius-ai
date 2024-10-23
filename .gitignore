@@ -1,0 +1,4 @@
+*.gguf
+venv/
+.idea/
+
