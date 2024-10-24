@@ -6,9 +6,9 @@
 - python
 - cmake
 - Visual Studio Community (make sure you install this with the following settings)
--- Desktop development with C++
--- Python development
--- Linux embedded development with C++
+  - Desktop development with C++
+  - Python development
+  - Linux embedded development with C++
 
 1. `git clone --recursive -j8 https://github.com/abetlen/llama-cpp-python.git`
 2. `set FORCE_CMAKE=1`
